@@ -5,3 +5,4 @@ First step just create a file sample file like readme.
 Save the file git add and git commit after that push the to git repositary.
 But since you created a new file vs code does not know where to push this file
 to do that create a empty repositary in github type git remote in termial with ssh link
+type git remote origin [clone repo link]
